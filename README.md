@@ -4,14 +4,14 @@ Este repositório contém uma calculadora de Regra de Três Simples desenvolvida
 A calculadora permite calcular a quarta variável em uma proporção diretamente proporcional entre três valores conhecidos. A interface é simples e intuitiva, tornando fácil o cálculo de proporções.
 
 ## Visualize o projeto
-().
+(https://marcospiont23.github.io/regra-de-tres-simplificada/).
 
 ## Como Usar
 
 1. Clone ou faça o download deste repositório.
 
 ```bash
-git clone 
+git clone https://marcospiont23.github.io/regra-de-tres-simplificada/
 ```
 
 ## Funcionalidades
